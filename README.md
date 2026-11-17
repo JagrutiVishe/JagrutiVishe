@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Jagruti Vishe 👋
 
-<!--
-**JagrutiVishe/JagrutiVishe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Graduate
 
-Here are some ideas to get you started:
+💻 Aspiring Java Full Stack Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning Java, SQL, JavaScript and Web Development.
+
+## About Me
+- I am a BCA graduate.
+- Interested in Software Development.
+- Passionate about learning new technologies.
+- Looking for opportunities to grow in the IT industry.
+
+## Technical Skills
+- Java
+- SQL
+- HTML
+- CSS
+- JavaScript
+- React.js
+- Node.js
+- Express.js
+
+## Projects
+**College Management System**
+- Developed a system to manage student records, faculty details and course information.
+- Used React.js, Node.js and Express.js.
+
+## Connect with Me
+- LinkedIn: https://www.linkedin.com/in/jagruti-vishe-4b81b7379/
+-
